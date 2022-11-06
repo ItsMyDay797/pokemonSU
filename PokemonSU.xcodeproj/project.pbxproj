@@ -53,6 +53,9 @@
 			children = (
 				6FE18325291814CD003670AD /* PokemonSUApp.swift */,
 				6FE18327291814CD003670AD /* ContentView.swift */,
+				6FE18333291814E7003670AD /* Model */,
+				6FE18334291814EF003670AD /* View */,
+				6FE18335291814F5003670AD /* Controllers */,
 				6FE18329291814D1003670AD /* Assets.xcassets */,
 				6FE1832B291814D1003670AD /* Preview Content */,
 			);
@@ -65,6 +68,27 @@
 				6FE1832C291814D1003670AD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6FE18333291814E7003670AD /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6FE18334291814EF003670AD /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6FE18335291814F5003670AD /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
